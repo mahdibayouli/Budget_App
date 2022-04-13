@@ -32,11 +32,7 @@ def categories_vertical(categories):
         index+=1
     return  result.rstrip('\n')
             
-            
-    
-        
-
-
+          
 class Category:
 
     def __init__(self, name):
